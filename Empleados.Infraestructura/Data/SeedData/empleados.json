@@ -1,0 +1,32 @@
+[
+  {
+    "Apellidos": "Gates",
+    "Nombres": "Bill",
+    "Cargo": "CEO",
+    "CompaniaId": 1
+  },
+ {
+    "Apellidos": "Gonzalez",
+    "Nombres": "Mario",
+    "Cargo": "Supervisor",
+    "CompaniaId": 1
+  },
+ {
+    "Apellidos": "Jobs",
+    "Nombres": "Steve",
+    "Cargo": "CEO",
+    "CompaniaId": 2
+  },
+  {
+    "Apellidos": "Taylor",
+    "Nombres": "Jenifer",
+    "Cargo": "Manager",
+    "CompaniaId": 2
+  },
+  {
+    "Apellidos": "Robbins",
+    "Nombres": "Charles",
+    "Cargo": "CEO",
+    "CompaniaId": 3
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "NombreCompania": "Microsoft",
+    "Direccion": "New York 3023 Street",
+    "Telefono": "323-568-8695",
+    "Telefono2": ""
+  },
+  {
+    "NombreCompania": "Apple",
+    "Direccion": "Houston Texas 156 Street",
+    "Telefono": "301-625-8798",
+    "Telefono2": ""
+  },
+  {
+    "NombreCompania": "Cisco",
+    "Direccion": "San Francisco 456 Street",
+    "Telefono": "210-569-4589",
+    "Telefono2": ""
+  }
+]
